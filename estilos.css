@@ -11,7 +11,7 @@
     
     body{
     
-    background-image: url("fondos.avif");
+    background-image: url("fondo.avif");
     
     background-repeat: no-repeat;
     
@@ -25,19 +25,19 @@
     
      
     
-    width: 190px;
+    width: 552px;
+    top: 238px;
+    height: 194px;
     
-    height: 190px;
-    
-    border-radius: 10px;
+    border-radius: 100px;
     
     background-repeat: no-repeat;
     
      
     
-    left: 180px;
+    left: 200px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("mariposa.jfif");
     
     }
     
