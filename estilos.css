@@ -197,16 +197,253 @@
                                                  
    }
    
-   .textobiologia{
+   
+   .imgsociales2{
     
-    font-size: 30px;
+    position: ;
+    
      
-    text-align: justify;
-                                                 
-   color: rgb(233, 15, 186);
-                                                 
-                                                  
+    
+    width: 10000px;
+    top: 200px;
+    height: 400px;
+    
+    border-radius: 1px;
+    
+    background-repeat: no-repeat;
+    
+     
+    
+    left: 500px;
+    
+    background-image: url("imagensociales2.png");
+    
     }
-    
-    
+
+    .imgreligion{
+
+        position: center;
         
+         
+        
+        width: 10000px;
+        top: 1000px;
+        height: 500px;
+        
+        border-radius: 1px;
+        
+        background-repeat: no-repeat;
+        
+         
+        
+        left: 900px;
+        
+        background-image: url("mapareligion.png");
+        
+        }
+    
+        .imgreligion2{
+    
+            position: center;
+            
+             
+            
+            width: 10000px;
+            top: 1000px;
+            height: 500px;
+            
+            border-radius: 1px;
+            
+            background-repeat: no-repeat;
+            
+             
+            
+            left: 900px;
+            
+            background-image: url("mapareligion2.png");
+            
+            }
+
+            .textomatematicas{
+    
+                font-size: 30px;
+                 
+                text-align: justify;
+                                                             
+               color: rgb(247, 37, 10);
+               
+               }
+
+               .imgmate{
+    
+                position: ;
+                
+                 
+                
+                width: 10000px;
+                top: 1000px;
+                height: 500px;
+                
+                border-radius: 1px;
+                
+                background-repeat: no-repeat;
+                
+                 
+                
+                left: 900px;
+                
+                background-image: url("monomios.jpg");
+                
+                }
+
+                .imgmate2{
+    
+                    position: ;
+                    
+                     
+                    
+                    width: 10000px;
+                    top: 1000px;
+                    height: 250px;
+                    
+                    border-radius: 1px;
+                    
+                    background-repeat: no-repeat;
+                    
+                     
+                    
+                    left: 900px;
+                    
+                    background-image: url("binomio.jpg");
+                    
+                    }
+
+                    .imgmate3{
+    
+                        position: ;
+                        
+                         
+                        
+                        width: 10000px;
+                        top: 1000px;
+                        height: 550px;
+                        
+                        border-radius: 1px;
+                        
+                        background-repeat: no-repeat;
+                        
+                         
+                        
+                        left: 800px;
+                        
+                        background-image: url("polinomio.webp");
+                        
+                        }
+
+                        .textomatematicas2{
+    
+                            font-size: 30px;
+                             
+                            text-align: justify;
+                                                                         
+                           color: rgb(247, 37, 10);
+                           
+                           }
+
+                           .imgmate0{
+    
+                            position: relative;
+                            
+                             
+                            
+                            width: 2000px;
+                            top: 150px;
+                            height: 800px;
+                            
+                            border-radius: 1px;
+                            
+                            background-repeat: no-repeat;
+                            
+                             
+                            
+                            left: 50px;
+                            
+                            background-image: url("algebra2.jpg");
+                            
+                            }
+
+                            .imgingles{
+    
+                                position: relative;
+                                
+                                 
+                                
+                                width: 2000px;
+                                top: 150px;
+                                height: 850px;
+                                
+                                border-radius: 1px;
+                                
+                                background-repeat: no-repeat;
+                                
+                                 
+                                
+                                left: 50px;
+                                
+                                background-image: url("ingles.jpg");
+                                
+                                }
+
+                                .imgreli{
+    
+                                    position: relative;
+                                    
+                                     
+                                    
+                                    width: 1000px;
+                                    top: 200px;
+                                    height:400px;
+                                    
+                                    border-radius: 1px;
+                                    
+                                    background-repeat: no-repeat;
+                                    
+                                     
+                                    
+                                    left: 500px;
+                                    
+                                    background-image: url("hinduismo.webp");
+                                    
+                                    }
+
+                                    .textoreli{
+    
+                                        font-size: 100px;
+                                         
+                                        text-align: justify;
+                                                                                     
+                                       color: rgb(28, 5, 129);
+                                       
+                                       }
+
+                                       .imgsociales3{
+    
+                                        position: relative;
+                                        
+                                         
+                                        
+                                        width: 1000px;
+                                        top: 200px;
+                                        height:400px;
+                                        
+                                        border-radius: 1px;
+                                        
+                                        background-repeat: no-repeat;
+                                        
+                                         
+                                        
+                                        left: 500px;
+                                        
+                                        background-image: url("historia2.jpg");
+                                        
+                                        }
