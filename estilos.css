@@ -113,7 +113,7 @@
     
     text-align: justify;
     
-    color: azure;
+    color: rgb(7, 87, 87);
     
     font-size: 20px;
     
@@ -125,7 +125,7 @@
         
         color: rgb(87, 18, 72);
         
-        font-size: 20px;
+        font-size: 30px;
         
         
         
@@ -137,10 +137,76 @@
             
             color: rgb(23, 24, 23);
             
-            font-size: 20px;
+            font-size: 40px;
             
             
             
             }
 
-            
+            .imgsociales{
+    
+                position: ;
+                
+                 
+                
+                width: 10000px;
+                top: 900px;
+                height: 488px;
+                
+                border-radius: 50px;
+                
+                background-repeat: no-repeat;
+                
+                 
+                
+                left: 900px;
+                
+                background-image: url("mapasociales.png");
+                
+                }
+
+                .textosociales2{
+    
+                    text-align: justify;
+                    
+                    color: rgb(38, 5, 68);
+                    
+                    font-size: 40px;
+                    
+                    
+                    
+                    }
+
+                    .textosociales3{
+    
+                        text-align: justify;
+                        
+                        color: rgb(5, 68, 49);
+                        
+                        font-size: 40px;
+}
+
+    .textoreligion{
+    
+   font-size: 30px;
+    
+   text-align: justify;
+                                                
+  color: rgb(233, 15, 186);
+                                                
+                                                 
+   }
+   
+   .textobiologia{
+    
+    font-size: 30px;
+     
+    text-align: justify;
+                                                 
+   color: rgb(233, 15, 186);
+                                                 
+                                                  
+    }
+    
+    
+        
