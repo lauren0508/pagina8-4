@@ -447,3 +447,388 @@
                                         background-image: url("historia2.jpg");
                                         
                                         }
+
+                                        .imgetica{
+    
+                                            position: relative;
+                                            
+                                             
+                                            
+                                            width: 1000px;
+                                            top: 150px;
+                                            height:400px;
+                                            
+                                            border-radius: 1px;
+                                            
+                                            background-repeat: no-repeat;
+                                            
+                                             
+                                            
+                                            left: 300px;
+                                            
+                                            background-image: url("eticaimagen.png");
+                                            
+                                            }
+
+                                            .textoetica{
+    
+                                                font-size: 40px;
+                                                 
+                                                text-align: justify;
+                                                                                             
+                                               color: rgb(7, 70, 241);
+                                               
+                                               }
+
+                                               .imgetica1{
+    
+                                                position: relative;
+                                                
+                                                 
+                                                
+                                                width: 1000px;
+                                                top: 50px;
+                                                height: 400px;
+                                                
+                                                border-radius: 1px;
+                                                
+                                                background-repeat: no-repeat;
+                                                
+                                                 
+                                                
+                                                left: 300px;
+                                                
+                                                background-image: url("etica1.png");
+                                                
+                                                }
+
+                                                .imgetica2{
+    
+                                                    position: relative;
+                                                    
+                                                     
+                                                    
+                                                    width: 1000px;
+                                                    top: 50px;
+                                                    height:350px;
+                                                    
+                                                    border-radius: 1px;
+                                                    
+                                                    background-repeat: no-repeat;
+                                                    
+                                                     
+                                                    
+                                                    left: 300px;
+                                                    
+                                                    background-image: url("etica2.png");
+                                                    
+                                                    }
+
+                                                    .imgetica3{
+    
+                                                        position: relative;
+                                                        
+                                                         
+                                                        
+                                                        width: 1000px;
+                                                        top: 50px;
+                                                        height:300px;
+                                                        
+                                                        border-radius: 1px;
+                                                        
+                                                        background-repeat: no-repeat;
+                                                        
+                                                         
+                                                        
+                                                        left: 300px;
+                                                        
+                                                        background-image: url("etica3.png");
+                                                        
+                                                        }
+
+                                                        .imgetica4{
+    
+                                                            position: relative;
+                                                            
+                                                             
+                                                            
+                                                            width: 1000px;
+                                                            top: 50px;
+                                                            height:300px;
+                                                            
+                                                            border-radius: 1px;
+                                                            
+                                                            background-repeat: no-repeat;
+                                                            
+                                                             
+                                                            
+                                                            left: 300px;
+                                                            
+                                                            background-image: url("etica4.png");
+                                                            
+                                                            }
+
+                                                            .imgetica5{
+
+                                                                position: relative;
+                                                                
+                                                                 
+                                                                
+                                                                width: 1000px;
+                                                                top: 50px;
+                                                                height:350px;
+                                                                
+                                                                border-radius: 1px;
+                                                                
+                                                                background-repeat: no-repeat;
+                                                                
+                                                                 
+                                                                
+                                                                left: 300px;
+                                                                
+                                                                background-image: url("etica5.png");
+                                                                
+                                                                }
+
+                                                                .imgetica6{
+    
+                                                                    position: relative;
+                                                                    
+                                                                     
+                                                                    
+                                                                    width: 1000px;
+                                                                    top: 50px;
+                                                                    height:350px;
+                                                                    
+                                                                    border-radius: 1px;
+                                                                    
+                                                                    background-repeat: no-repeat;
+                                                                    
+                                                                     
+                                                                    
+                                                                    left: 300px;
+                                                                    
+                                                                    background-image: url("etica6.png");
+                                                                    
+                                                                    }
+
+                                                                    .imgetica7{
+    
+                                                                        position: relative;
+                                                                        
+                                                                         
+                                                                        
+                                                                        width: 1000px;
+                                                                        top: 50px;
+                                                                        height:300px;
+                                                                        
+                                                                        border-radius: 1px;
+                                                                        
+                                                                        background-repeat: no-repeat;
+                                                                        
+                                                                         
+                                                                        
+                                                                        left: 300px;
+                                                                        
+                                                                        background-image: url("etica7.png");
+                                                                        
+                                                                        }
+
+                                                                        .imgetica8{
+    
+                                                                            position: relative;
+                                                                            
+                                                                             
+                                                                            
+                                                                            width: 1000px;
+                                                                            top: 50px;
+                                                                            height:400px;
+                                                                            
+                                                                            border-radius: 1px;
+                                                                            
+                                                                            background-repeat: no-repeat;
+                                                                            
+                                                                             
+                                                                            
+                                                                            left: 300px;
+                                                                            
+                                                                            background-image: url("etica8.png");
+                                                                            
+                                                                            }
+
+                                                                            .imgetica8{
+    
+                                                                                position: relative;
+                                                                                
+                                                                                 
+                                                                                
+                                                                                width: 1000px;
+                                                                                top: 50px;
+                                                                                height:400px;
+                                                                                
+                                                                                border-radius: 1px;
+                                                                                
+                                                                                background-repeat: no-repeat;
+                                                                                
+                                                                                 
+                                                                                
+                                                                                left: 300px;
+                                                                                
+                                                                                background-image: url("etica8.png");
+                                                                                
+                                                                                }
+
+                                                                                .imgtecno{
+    
+                                                                                    position: relative;
+                                                                                    
+                                                                                     
+                                                                                    
+                                                                                    width: 1000px;
+                                                                                    top: 150px;
+                                                                                    height:400px;
+                                                                                    
+                                                                                    border-radius: 1px;
+                                                                                    
+                                                                                    background-repeat: no-repeat;
+                                                                                    
+                                                                                     
+                                                                                    
+                                                                                    left: 300px;
+                                                                                    
+                                                                                    background-image: url("tecno.png");
+                                                                                    
+                                                                                    }
+
+                                                                                    .textotecno{
+    
+                                                                                        font-size: 30px;
+                                                                                         
+                                                                                        text-align: justify;
+                                                                                                                                     
+                                                                                       color: rgba(17, 17, 17, 0.877);
+                                                                                       
+                                                                                       }
+
+                                                                                       .gif{
+    
+                                                                                        position: relative;
+                                                                                        
+                                                                                         
+                                                                                        
+                                                                                        width: 1000px;
+                                                                                        top: 50px;
+                                                                                        height:200px;
+                                                                                        
+                                                                                        border-radius: 1px;
+                                                                                        
+                                                                                        background-repeat: no-repeat;
+                                                                                        
+                                                                                         
+                                                                                        
+                                                                                        left: 300px;
+                                                                                        
+                                                                                        background-image: url("giftecno.gif");
+                                                                                        
+                                                                                        }
+
+                                                                                        .imgtecno1{
+    
+                                                                                            position: relative;
+                                                                                            
+                                                                                             
+                                                                                            
+                                                                                            width: 1000px;
+                                                                                            top: 50px;
+                                                                                            height:350px;
+                                                                                            
+                                                                                            border-radius: 1px;
+                                                                                            
+                                                                                            background-repeat: no-repeat;
+                                                                                            
+                                                                                             
+                                                                                            
+                                                                                            left: 300px;
+                                                                                            
+                                                                                            background-image: url("tecno1.png");
+                                                                                            
+                                                                                            }
+
+                                                                                            .imgtecno2{
+    
+                                                                                                position: relative;
+                                                                                                
+                                                                                                 
+                                                                                                
+                                                                                                width: 1000px;
+                                                                                                top: 50px;
+                                                                                                height:300px;
+                                                                                                
+                                                                                                border-radius: 1px;
+                                                                                                
+                                                                                                background-repeat: no-repeat;
+                                                                                                
+                                                                                                 
+                                                                                                
+                                                                                                left: 300px;
+                                                                                                
+                                                                                                background-image: url("tecno2.png");
+                                                                                                
+                                                                                                }
+
+                                                                                                .imgtecno3{
+    
+                                                                                                    position: relative;
+                                                                                                    
+                                                                                                     
+                                                                                                    
+                                                                                                    width: 1000px;
+                                                                                                    top: 50px;
+                                                                                                    height:350px;
+                                                                                                    
+                                                                                                    border-radius: 1px;
+                                                                                                    
+                                                                                                    background-repeat: no-repeat;
+                                                                                                    
+                                                                                                     
+                                                                                                    
+                                                                                                    left: 300px;
+                                                                                                    
+                                                                                                    background-image: url("tecno3.png");
+                                                                                                    
+                                                                                                    }
+
+                                                                                                    .imgbiologia{
+    
+                                                                                                        position: relative;
+                                                                                                        
+                                                                                                         
+                                                                                                        
+                                                                                                        width: 1000px;
+                                                                                                        top: 50px;
+                                                                                                        height:350px;
+                                                                                                        
+                                                                                                        border-radius: 1px;
+                                                                                                        
+                                                                                                        background-repeat: no-repeat;
+                                                                                                        
+                                                                                                         
+                                                                                                        
+                                                                                                        left: 300px;
+                                                                                                        
+                                                                                                        background-image: url("");
+                                                                                                        
+                                                                                                        }
+
+                                                                                                        .textobiologia{
+    
+                                                                                                            font-size: 30px;
+                                                                                                             
+                                                                                                            text-align: justify;
+                                                                                                                                                         
+                                                                                                           color: rgba(17, 17, 17, 0.877);
+                                                                                                           
+                                                                                                           }
+
+                                                                                                    
+                                                                                       
