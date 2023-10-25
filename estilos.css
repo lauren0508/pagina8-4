@@ -954,3 +954,295 @@
                                                                                                                                 background-image: url("gifingles.gif");
                                                                                                                                 
                                                                                                                                 }
+
+                                                                                                                                .textosociales4{
+    
+                                                                                                                                    font-size: 70px;
+                                                                                                                                    
+                                                                                                                                    text-align: justify;
+                                                                                                                                    
+                                                                                                                                    color: rgb(15, 1, 1);
+                                                                                                                                    
+                                                                                                                                     
+                                                                                                                                    
+                                                                                                                                    }
+
+                                                                                                                                    .textomate{
+    
+                                                                                                                                        font-size: 60px;
+                                                                                                                                         
+                                                                                                                                        text-align: justify;
+                                                                                                                                                                                     
+                                                                                                                                       color: rgba(14, 240, 89, 0.877);
+                                                                                                                                       
+                                                                                                                                       }
+
+                                                                                                                                       .textomate2{
+    
+                                                                                                                                        font-size: 40px;
+                                                                                                                                         
+                                                                                                                                        text-align: justify;
+                                                                                                                                                                                     
+                                                                                                                                       color: rgba(4, 66, 25, 0.877);
+                                                                                                                                       
+                                                                                                                                       }
+
+                                                                                                                                       .imgmate00{
+    
+                                                                                                                                        position: relative;
+                                                                                                                                        
+                                                                                                                                         
+                                                                                                                                        
+                                                                                                                                        width: 1000px;
+                                                                                                                                        top: 150px;
+                                                                                                                                        height:360px;
+                                                                                                                                        
+                                                                                                                                        border-radius: 1px;
+                                                                                                                                        
+                                                                                                                                        background-repeat: no-repeat;
+                                                                                                                                        
+                                                                                                                                         
+                                                                                                                                        
+                                                                                                                                        left: 200px;
+                                                                                                                                        
+                                                                                                                                        background-image: url("facto1.png");
+                                                                                                                                        
+                                                                                                                                        }
+
+                                                                                                                                        .imgmate01{
+    
+                                                                                                                                            position: relative;
+                                                                                                                                            
+                                                                                                                                             
+                                                                                                                                            
+                                                                                                                                            width: 1000px;
+                                                                                                                                            top: 50px;
+                                                                                                                                            height:860px;
+                                                                                                                                            
+                                                                                                                                            border-radius: 1px;
+                                                                                                                                            
+                                                                                                                                            background-repeat: no-repeat;
+
+                                                                                                                                            left: 200px;
+                                                                                                                                                
+                                                                                                                                                background-image: url("facto2.jpeg");
+
+                                                                                                                                                        }
+
+                                                                                                                                               .imgmate02{
+    
+                                                                                                                                                position: relative;
+                                                                                                                                                
+                                                                                                                                                 
+                                                                                                                                                
+                                                                                                                                                width: 1000px;
+                                                                                                                                                top: 50px;
+                                                                                                                                                height:860px;
+                                                                                                                                                
+                                                                                                                                                border-radius: 1px;
+                                                                                                                                                
+                                                                                                                                                background-repeat: no-repeat;
+                                                                                                                                                
+                                                                                                                                                 
+                                                                                                                                                
+                                                                                                                                                left: 200px;
+                                                                                                                                                
+                                                                                                                                                background-image: url("facto2.jpeg");
+                                                                                                                                                
+                                                                                                                                                }
+
+                                                                                                                                                .imgsoci1{
+    
+                                                                                                                                                    position: relative;
+                                                                                                                                                    
+                                                                                                                                                     
+                                                                                                                                                    
+                                                                                                                                                    width: 1000px;
+                                                                                                                                                    top: 50px;
+                                                                                                                                                    height:1600px;
+                                                                                                                                                    
+                                                                                                                                                    border-radius: 1px;
+                                                                                                                                                    
+                                                                                                                                                    background-repeat: no-repeat;
+                                                                                                                                                    
+                                                                                                                                                     
+                                                                                                                                                    
+                                                                                                                                                    left: 200px;
+                                                                                                                                                    
+                                                                                                                                                    background-image: url("infosoci.jpeg");
+                                                                                                                                                    
+                                                                                                                                                    }
+
+                                                                                                                                                    .imgmate02{
+    
+                                                                                                                                                        position: relative;
+                                                                                                                                                        
+                                                                                                                                                         
+                                                                                                                                                        
+                                                                                                                                                        width: 1000px;
+                                                                                                                                                        top: 50px;
+                                                                                                                                                        height:250px;
+                                                                                                                                                        
+                                                                                                                                                        border-radius: 1px;
+                                                                                                                                                        
+                                                                                                                                                        background-repeat: no-repeat;
+                                                                                                                                                        
+                                                                                                                                                         
+                                                                                                                                                        
+                                                                                                                                                        left: 200px;
+                                                                                                                                                        
+                                                                                                                                                        background-image: url("factor3.jpg");
+                                                                                                                                                        
+                                                                                                                                                        }
+
+                                                                                                                                                        .imgtecnolo{
+    
+                                                                                                                                                            position: relative;
+                                                                                                                                                            
+                                                                                                                                                             
+                                                                                                                                                            
+                                                                                                                                                            width: 1000px;
+                                                                                                                                                            top: 150px;
+                                                                                                                                                            height:280px;
+                                                                                                                                                            
+                                                                                                                                                            border-radius: 1px;
+                                                                                                                                                            
+                                                                                                                                                            background-repeat: no-repeat;
+                                                                                                                                                            
+                                                                                                                                                             
+                                                                                                                                                            
+                                                                                                                                                            left: 200px;
+                                                                                                                                                            
+                                                                                                                                                            background-image: url("comunicacion.png");
+                                                                                                                                                            
+                                                                                                                                                            }
+
+                                                                                                                                                            
+                                                                                                                                       .textotecno01{
+    
+                                                                                                                                        font-size: 40px;
+                                                                                                                                         
+                                                                                                                                        text-align: justify;
+                                                                                                                                                                                     
+                                                                                                                                       color: rgba(236, 9, 149, 0.877);
+                                                                                                                                       
+                                                                                                                                       }
+
+                                                                                                                                       .textoingles3{
+    
+                                                                                                                                        font-size: 40px;
+                                                                                                                                         
+                                                                                                                                        text-align: justify;
+                                                                                                                                                                                     
+                                                                                                                                       color: rgba(7, 58, 100, 0.877);
+                                                                                                                                       
+                                                                                                                                    }
+
+                                                                                                                                    .textomate3{
+    
+                                                                                                                                        font-size: 70px;
+                                                                                                                                         
+                                                                                                                                        text-align: justify;
+                                                                                                                                                                                     
+                                                                                                                                       color: rgba(64, 10, 85, 0.877);
+                                                                                                                                       
+                                                                                                                                    }
+
+                                                                                                                            
+                                                                                                                                    
+                
+            
+                
+                                                                                                                                                       
+            
+            
+            
+            
+        
+        
+        
+        
+        
+        
+            
+                                                                                                                                                   
+        
+        
+        
+        
+    
+    
+    
+    
+    
+            
+        
+            
+                                                                                                                                                   
+        
+        
+        
+        
+    
+    
+    
+    
+    
+    
+        
+                                                                                                                                               
+    
+    
+    
+    
+
+
+                
+            
+                
+                                                                                                                                                       
+            
+            
+            
+            
+        
+        
+        
+        
+        
+        
+            
+                                                                                                                                                   
+        
+        
+        
+        
+    
+    
+    
+    
+    
+            
+        
+            
+                                                                                                                                                   
+        
+        
+        
+        
+    
+    
+    
+    
+    
+    
+        
+                                                                                                                                               
+    
+    
+    
+    
+
+
+
+
