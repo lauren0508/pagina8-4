@@ -959,7 +959,7 @@
     
                                                                                                                                     font-size: 70px;
                                                                                                                                     
-                                                                                                                                    text-align: justify;
+                                                                                                                                    text-align: right;
                                                                                                                                     
                                                                                                                                     color: rgb(15, 1, 1);
                                                                                                                                     
@@ -1058,8 +1058,8 @@
                                                                                                                                                      
                                                                                                                                                     
                                                                                                                                                     width: 1000px;
-                                                                                                                                                    top: 50px;
-                                                                                                                                                    height:1600px;
+                                                                                                                                                    top: 100px;
+                                                                                                                                                    height:1900px;
                                                                                                                                                     
                                                                                                                                                     border-radius: 1px;
                                                                                                                                                     
@@ -1313,6 +1313,76 @@
                                                                                                                                     background-image: url("frase8.jfif");
                                                                                                                                     
                                                                                                                                     }
+
+                                                                                                                                    .textobio{
+    
+                                                                                                                                        font-size: 50px;
+                                                                                                                                         
+                                                                                                                                        text-align: justify;
+                                                                                                                                                                                     
+                                                                                                                                       color: rgba(179, 5, 248, 0.877);
+                                                                                                                                       
+                                                                                                                                    }
+
+                                                                                                                                    .imgbio{
+    
+                                                                                                                                        position: relative;
+
+                                                                                                                                    width: 1800px;
+                                                                                                                                    top: 170px;
+                                                                                                                                    height:380px;
+                                                                                                                                    
+                                                                                                                                    border-radius: 1px;
+                                                                                                                                    
+                                                                                                                                    background-repeat: no-repeat;
+                                                                                                                                    
+                                                                                                                                     
+                                                                                                                                    
+                                                                                                                                    left: 400px;
+                                                                                                                                    
+                                                                                                                                    background-image: url("bio1.jpeg");
+                                                                                                                                    
+                                                                                                                                    }
+
+                                                                                                                                    .imgbio2{
+    
+                                                                                                                                        position: relative;
+
+                                                                                                                                    width: 700px;
+                                                                                                                                    top: 100px;
+                                                                                                                                    height:780px;
+                                                                                                                                    
+                                                                                                                                    border-radius: 1px;
+                                                                                                                                    
+                                                                                                                                    background-repeat: no-repeat;
+                                                                                                                                    
+                                                                                                                                     
+                                                                                                                                    
+                                                                                                                                    left: 400px;
+                                                                                                                                    
+                                                                                                                                    background-image: url("bio2.jpeg");
+                                                                                                                                    
+                                                                                                                                    }
+                                                                                                                                    .imgbio3{
+    
+                                                                                                                                        position: relative;
+
+                                                                                                                                    width: 1800px;
+                                                                                                                                    top: 170px;
+                                                                                                                                    height:380px;
+                                                                                                                                    
+                                                                                                                                    border-radius: 1px;
+                                                                                                                                    
+                                                                                                                                    background-repeat: no-repeat;
+                                                                                                                                    
+                                                                                                                                     
+                                                                                                                                    
+                                                                                                                                    left: 400px;
+                                                                                                                                    
+                                                                                                                                    background-image: url("bio3.jpeg");
+                                                                                                                                    
+                                                                                                                                    }
+
 
                                                                                                                             
                                                                                                                                     
